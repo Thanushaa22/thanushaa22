@@ -98,5 +98,7 @@ Aspiring software developer with hands-on experience in **data analytics, web de
 ### 🔗 Portfolio  
 [thanushaportfolio.netlify.app](https://thanushaportfolio.netlify.app)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=Thanusha-M&theme=tokyonight)
+
 
 
