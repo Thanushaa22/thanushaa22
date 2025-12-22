@@ -98,12 +98,5 @@ Aspiring software developer with hands-on experience in **data analytics, web de
 ### 🔗 Portfolio  
 [thanushaportfolio.netlify.app](https://thanushaportfolio.netlify.app)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 
-![Stars](https://img.shields.io/github/stars/Thanushaa22/REPO_NAME?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Thanushaa22/REPO_NAME?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Thanushaa22/REPO_NAME?style=for-the-badge)
 
