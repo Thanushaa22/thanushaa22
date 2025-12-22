@@ -1,7 +1,7 @@
 
 # 👋 Hello, I'm Thanusha M
 
-Aspiring application developer with hands-on experience in **data analytics, web development, and full-stack application design**. I enjoy building efficient, user-focused software systems and working on real-world problem-solving projects using modern technologies.
+Aspiring software developer with hands-on experience in **data analytics, web development, and full-stack application design**. I enjoy building efficient, user-focused software systems and working on real-world problem-solving projects using modern technologies.
 ## 🔹 About Me
 - 🎓 Master of Computer Applications – Presidency University, Bengaluru  
 - 📍 Bengaluru, Karnataka, India  
