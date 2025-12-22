@@ -51,11 +51,8 @@ Aspiring software developer with hands-on experience in **data analytics, web de
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanushaa22&layout=compact&theme=tokyonight" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanushaa22&theme=tokyonight"/>
-</p>
 
-
+---
 
 ## 💼 Experience
 
