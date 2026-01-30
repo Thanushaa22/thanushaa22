@@ -85,7 +85,7 @@ Aspiring software developer with hands-on experience in **data analytics, web de
 
 ---
 ### 🔗 Portfolio  
-(https://thanusha-portfolio.vercel.app/)
+THANUSHA M: (https://thanusha-portfolio.vercel.app/)
 
 
 
