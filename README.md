@@ -85,7 +85,7 @@ Aspiring software developer with hands-on experience in **data analytics, web de
 
 ---
 ### 🔗 Portfolio  
-[thanushaportfolio.netlify.app](https://thanushaportfolio.netlify.app)
+(https://thanusha-portfolio.vercel.app/)
 
 
 
