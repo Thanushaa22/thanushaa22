@@ -44,6 +44,12 @@ Aspiring software developer with hands-on experience in **data analytics, web de
 
 ## 💼 Experience
 
+### **Associate Software Engineer Intern | Mphasis Limited, Bengaluru**                                         
+*Feb 2026 – May 2026*
+- Processed and analyzed sales data using Python, improving data accuracy by 25% through cleaning and validation.
+- Built Power BI dashboards and reports, reducing manual reporting effort by 40%.
+- Identified key business trends and revenue patterns, improving reporting efficiency by 30%.
+
 ### **Data Analyst Intern – iStudio (Remote)**
 *June 2025 – September 2025*
 - Analyzed large datasets using SQL and Python, improving decision-making efficiency by 20%
