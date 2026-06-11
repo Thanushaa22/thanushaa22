@@ -56,7 +56,7 @@ Aspiring software developer with hands-on experience in **data analytics, web de
 - Developed Tableau dashboards and predictive models
 - Optimized data workflows, reducing retrieval time by 30%
 
-### **Web Developer Intern – Orion Web Service Pvt Ltd (Onsite)**
+### **Web Developer Intern – Orion Web Service Pvt Ltd, Mysuru**
 *March 2024 – April 2024*
 - Built and optimized machine learning models in Python
 - Improved website performance and user experience
