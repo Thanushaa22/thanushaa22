@@ -66,37 +66,6 @@ My interests span full-stack development, backend engineering, artificial intell
 
 ---
 
-# Selected Projects
-
-## 🏙 CityVerse AI
-
-AI-powered Smart City Intelligence Platform designed to monitor urban infrastructure through real-time analytics, predictive insights, and interactive dashboards.
-
-**Built with**
-
-React • Node.js • Express • MySQL • Docker • Leaflet
-
----
-
-## 🚁 JeevanRakshak
-
-An AI-assisted disaster relief drone concept designed for emergency medical supply delivery using intelligent navigation and secure package verification.
-
-**Highlights**
-
-- AI-assisted route planning
-- GPS navigation
-- QR/OTP verification
-- Emergency response support
-
----
-
-## 🛡 Live Safety Detection
-
-Deep Learning and NLP-based system for identifying unsafe situations using video and audio analysis in real time.
-
----
-
 # Experience
 
 ## Associate Software Engineer Intern
@@ -156,15 +125,15 @@ Deep Learning and NLP-based system for identifying unsafe situations using video
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thanusha2233&show_icons=true&hide_border=true&theme=transparent"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thanushaa22&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanusha2233&layout=compact&hide_border=true&theme=transparent"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanushaa22&layout=compact&hide_border=true&theme=transparent"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=thanusha2233&hide_border=true&theme=transparent"/>
+<img src="https://streak-stats.demolab.com?user=Thanushaa22&hide_border=true&theme=transparent"/>
 
 </p>
 
