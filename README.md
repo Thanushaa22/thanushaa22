@@ -44,25 +44,60 @@ My interests span full-stack development, backend engineering, artificial intell
 
 # Tech Stack
 
-### Languages
+# 💻 Tech Stack
 
-`Java` `Python` `C++` `JavaScript` `SQL`
+<div align="center">
 
-### Frontend
+### Programming Languages
 
-`React` `HTML` `CSS` `Bootstrap`
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,c,mysql" />
+</p>
 
-### Backend
+### Frontend Development
 
-`Node.js` `Express.js` `REST APIs`
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,bootstrap,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
 
 ### Databases
 
-`MySQL` `MongoDB` `Firebase`
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
 
-### Cloud & Tools
+### Cloud & DevOps
 
-`AWS` `Git` `GitHub` `Docker` `Postman` `VS Code`
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+</p>
+
+### Tools & IDEs
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,maven" />
+</p>
+
+### Data Analytics & AI
+
+<p>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
+
+</p>
+
+</div>
 
 ---
 
@@ -113,24 +148,6 @@ My interests span full-stack development, backend engineering, artificial intell
 - Smart India Hackathon — Internal Round Shortlisted
 - Anveshana Innovation Challenge — Award Recipient
 - Built multiple AI, Data Analytics, and Full-Stack applications
-
----
-
-# GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Thanushaa22&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanushaa22&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Thanushaa22&hide_border=true&theme=transparent"/>
-
-</p>
 
 ---
 
