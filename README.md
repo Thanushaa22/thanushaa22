@@ -1,170 +1,192 @@
 <div align="center">
 
-# Hi 👋 I'm Thanusha M
+# THANUSHA M
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;AI+%26+Machine+Learning+Explorer;Always+Learning+New+Technologies" />
+### Software Engineer • Full Stack Developer • AI Enthusiast
 
-<img src="https://komarev.com/ghpvc/?username=thanusha2233&label=Profile+Views&color=0e75b6&style=flat" />
+Building scalable software, intelligent systems, and meaningful digital experiences.
+
+<p>
+<a href="https://thanusha-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thanusha2233">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:thanushamanjunath2233@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# About
 
-🎓 MCA Graduate passionate about building scalable software solutions.
+I'm a software engineer passionate about building modern applications that solve real-world problems.
 
-💻 Interested in
-
-- Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Data Analytics
-- Cloud Computing
-
-🌱 Currently improving
-
-- Advanced React
-- Node.js
-- System Design
-- Data Structures & Algorithms
-
-🎯 Goal
-
-To become a Software Development Engineer building impactful products that solve real-world problems.
+My interests span full-stack development, backend engineering, artificial intelligence, and data-driven systems. I enjoy transforming ideas into scalable products while continuously learning new technologies and improving my engineering skills.
 
 ---
 
-# 🛠 Tech Stack
+# Current Focus
+
+- Building production-ready full-stack applications
+- Learning scalable backend architecture
+- Strengthening Data Structures & Algorithms
+- Exploring AI-powered software solutions
+
+---
+
+# Tech Stack
 
 ### Languages
 
-<p align="left">
+`Java` `Python` `C++` `JavaScript` `SQL`
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql" />
+### Frontend
 
-</p>
+`React` `HTML` `CSS` `Bootstrap`
 
----
+### Backend
 
-### Frameworks & Libraries
+`Node.js` `Express.js` `REST APIs`
 
-<p>
+### Databases
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,mongodb,tailwind,bootstrap" />
+`MySQL` `MongoDB` `Firebase`
 
-</p>
+### Cloud & Tools
 
----
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,docker" />
-
-</p>
+`AWS` `Git` `GitHub` `Docker` `Postman` `VS Code`
 
 ---
 
-# 💼 Experience
+# Selected Projects
 
-## Associate Software Engineer Intern — Mphasis
+## 🏙 CityVerse AI
 
-📍 Bengaluru
+AI-powered Smart City Intelligence Platform designed to monitor urban infrastructure through real-time analytics, predictive insights, and interactive dashboards.
 
-**Feb 2026 – May 2026**
+**Built with**
 
-✔ Processed and analyzed sales datasets using Python, improving data quality by **25%**
-
-✔ Developed Power BI dashboards reducing reporting effort by **40%**
-
-✔ Identified business trends and optimized reporting workflows by **30%**
+React • Node.js • Express • MySQL • Docker • Leaflet
 
 ---
 
-## Data Analyst Intern — iStudio (Remote)
+## 🚁 JeevanRakshak
 
-**Jun 2025 – Sep 2025**
+An AI-assisted disaster relief drone concept designed for emergency medical supply delivery using intelligent navigation and secure package verification.
 
-✔ Data Cleaning using Python & SQL
+**Highlights**
 
-✔ Built Tableau dashboards
-
-✔ Optimized data retrieval by **30%**
-
----
-
-## Web Developer Intern — Orion Web Service Pvt Ltd
-
-**Mar 2024 – Apr 2024**
-
-✔ Improved website performance
-
-✔ Worked in Agile environment
-
-✔ Developed ML-based features in Python
+- AI-assisted route planning
+- GPS navigation
+- QR/OTP verification
+- Emergency response support
 
 ---
 
-# 📊 GitHub Analytics
+## 🛡 Live Safety Detection
+
+Deep Learning and NLP-based system for identifying unsafe situations using video and audio analysis in real time.
+
+---
+
+# Experience
+
+## Associate Software Engineer Intern
+**Mphasis Limited**
+
+**Feb 2026 — May 2026**
+
+- Improved data quality through Python-based data processing and validation.
+- Developed interactive Power BI dashboards for business reporting.
+- Identified business trends to improve reporting efficiency.
+- Collaborated within Agile development teams.
+
+---
+
+## Data Analyst Intern
+**iStudio (Remote)**
+
+**Jun 2025 — Sep 2025**
+
+- Built SQL and Python data pipelines.
+- Created Tableau dashboards.
+- Optimized reporting workflows.
+
+---
+
+## Web Developer Intern
+**Orion Web Service Pvt Ltd**
+
+**Mar 2024 — Apr 2024**
+
+- Enhanced website performance.
+- Worked with Agile methodologies.
+- Developed Python-based features.
+
+---
+
+# Certifications
+
+- AWS Certified Cloud Practitioner
+- Oracle Cloud Infrastructure AI Foundations
+- Oracle AI Vector Search
+- Deloitte Data Analytics Job Simulation
+- Intel AI Aware & AI Appreciate
+- CodeSignal Machine Learning Model Development
+
+---
+
+# Achievements
+
+- Smart India Hackathon — Internal Round Shortlisted
+- Anveshana Innovation Challenge — Award Recipient
+- Built multiple AI, Data Analytics, and Full-Stack applications
+
+---
+
+# GitHub Analytics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanusha2233&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thanusha2233&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanusha2233&layout=compact&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanusha2233&layout=compact&hide_border=true&theme=transparent"/>
 
 </p>
-
----
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanusha2233&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=thanusha2233&hide_border=true&theme=transparent"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# Connect
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=thanusha2233&theme=tokyo-night"/>
+Portfolio  
+https://thanusha-portfolio.vercel.app
 
----
+LinkedIn  
+https://www.linkedin.com/in/thanusha2233
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=thanusha2233&theme=algolia&column=4"/>
-
-</p>
-
----
-
-# 🤝 Connect with Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/thanusha2233">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:thanushamanjunath2233@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://thanusha-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+Email  
+thanushamanjunath2233@gmail.com
 
 ---
 
 <div align="center">
 
-### ⭐ "Building impactful software with clean code, scalable architecture, and continuous learning."
+### Thanks for visiting.
+
+*Always building. Always learning.*
 
 </div>
