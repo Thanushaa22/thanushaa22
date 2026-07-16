@@ -1,98 +1,170 @@
+<div align="center">
 
-# 👋 Hello, I'm Thanusha M
+# Hi 👋 I'm Thanusha M
 
-Aspiring software developer with hands-on experience in **data analytics, web development, and full-stack application design**. I enjoy building efficient, user-focused software systems and working on real-world problem-solving projects using modern technologies.
-## 🔹 About Me
-- 🎓 Master of Computer Applications – Presidency University, Bengaluru  
-- 📍 Bengaluru, Karnataka, India  
-- 💡 Strong interest in **Full-Stack Development, Data Analytics, and AI-based systems**
-- 🚀 Passionate about learning, building, and improving scalable applications
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;AI+%26+Machine+Learning+Explorer;Always+Learning+New+Technologies" />
+
+<img src="https://komarev.com/ghpvc/?username=thanusha2233&label=Profile+Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🛠️ Technologies & Tools
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+# 🚀 About Me
+
+🎓 MCA Graduate passionate about building scalable software solutions.
+
+💻 Interested in
+
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Data Analytics
+- Cloud Computing
+
+🌱 Currently improving
+
+- Advanced React
+- Node.js
+- System Design
+- Data Structures & Algorithms
+
+🎯 Goal
+
+To become a Software Development Engineer building impactful products that solve real-world problems.
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql" />
+
 </p>
 
 ---
 
-## 📚 Frameworks & Libraries
+### Frameworks & Libraries
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit"/>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,firebase,mongodb,tailwind,bootstrap" />
+
 </p>
 
 ---
 
-## ☁️ Cloud & Databases
+### Tools
+
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,aws,docker" />
+
 </p>
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### **Associate Software Engineer Intern | Mphasis Limited, Bengaluru**                                         
-*Feb 2026 – May 2026*
-- Processed and analyzed sales data using Python, improving data accuracy by 25% through cleaning and validation.
-- Built Power BI dashboards and reports, reducing manual reporting effort by 40%.
-- Identified key business trends and revenue patterns, improving reporting efficiency by 30%.
+## Associate Software Engineer Intern — Mphasis
 
-### **Data Analyst Intern – iStudio (Remote)**
-*June 2025 – September 2025*
-- Analyzed large datasets using SQL and Python, improving decision-making efficiency by 20%
-- Developed Tableau dashboards and predictive models
-- Optimized data workflows, reducing retrieval time by 30%
+📍 Bengaluru
 
-### **Web Developer Intern – Orion Web Service Pvt Ltd, Mysuru**
-*March 2024 – April 2024*
-- Built and optimized machine learning models in Python
-- Improved website performance and user experience
-- Collaborated in Agile and Scrum-based workflows
+**Feb 2026 – May 2026**
+
+✔ Processed and analyzed sales datasets using Python, improving data quality by **25%**
+
+✔ Developed Power BI dashboards reducing reporting effort by **40%**
+
+✔ Identified business trends and optimized reporting workflows by **30%**
 
 ---
 
-## 🏆 Certifications & Achievements
-- AWS Cloud Practitioner
-- Oracle Cloud Infrastructure AI Foundation & AI Vector Search Certified
-- Deloitte Data Analytics Job Simulation
-- Intel AI Aware & AI Appreciate
-- CodeSignal – Machine Learning Model Development
-- Shortlisted in **Smart India Hackathon (SIH) – Internal Round**
-- Awarded in **Anveshana (Building New Ideas)**
+## Data Analyst Intern — iStudio (Remote)
+
+**Jun 2025 – Sep 2025**
+
+✔ Data Cleaning using Python & SQL
+
+✔ Built Tableau dashboards
+
+✔ Optimized data retrieval by **30%**
 
 ---
 
-## 📫 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/thanusha2233">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:thanushamanjunath2233@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
+## Web Developer Intern — Orion Web Service Pvt Ltd
+
+**Mar 2024 – Apr 2024**
+
+✔ Improved website performance
+
+✔ Worked in Agile environment
+
+✔ Developed ML-based features in Python
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanusha2233&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanusha2233&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-⭐ *Feel free to explore my repositories and projects. I'm always open to learning, collaboration, and new opportunities!*
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thanusha2233&theme=tokyonight"/>
+
+</p>
 
 ---
-### 🔗 Portfolio  
-THANUSHA M: (https://thanusha-portfolio.vercel.app/)
 
+# 📈 Contribution Graph
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thanusha2233&theme=tokyo-night"/>
 
+---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thanusha2233&theme=algolia&column=4"/>
+
+</p>
+
+---
+
+# 🤝 Connect with Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/thanusha2233">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:thanushamanjunath2233@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://thanusha-portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ "Building impactful software with clean code, scalable architecture, and continuous learning."
+
+</div>
