@@ -102,7 +102,7 @@ My interests span full-stack development, backend engineering, artificial intell
 
 ---
 
-# Certifications
+# Certifications and Achievements
 
 - AWS Certified Cloud Practitioner
 - Oracle Cloud Infrastructure AI Foundations
@@ -110,11 +110,6 @@ My interests span full-stack development, backend engineering, artificial intell
 - Deloitte Data Analytics Job Simulation
 - Intel AI Aware & AI Appreciate
 - CodeSignal Machine Learning Model Development
-
----
-
-# Achievements
-
 - Smart India Hackathon — Internal Round Shortlisted
 - Anveshana Innovation Challenge — Award Recipient
 - Built multiple AI, Data Analytics, and Full-Stack applications
